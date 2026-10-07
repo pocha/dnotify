@@ -1,0 +1,10 @@
+{
+  "updated": "2026-10-07T02:00:00Z",
+  "postcodes": [
+    { "postcode": "E17 8AA", "latestSlot": "2026-10-06T18:42:00Z", "slotDate": "2026-11-12", "slotTime": "08:24" },
+    { "postcode": "M8 8EP",  "latestSlot": "2026-10-06T09:15:00Z", "slotDate": "2026-11-03", "slotTime": "13:10" },
+    { "postcode": "B26 1DU", "latestSlot": "2026-10-05T21:03:00Z", "slotDate": "2026-12-01", "slotTime": "10:50" },
+    { "postcode": "LS12 6AB","latestSlot": "2026-10-04T07:30:00Z", "slotDate": "2026-11-19", "slotTime": "15:34" },
+    { "postcode": "G51 4BQ", "latestSlot": "2026-10-02T16:20:00Z", "slotDate": "2026-11-27", "slotTime": "09:02" }
+  ]
+}
