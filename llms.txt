@@ -1,0 +1,18 @@
+# DVSA Slot Notifier
+
+> A free WhatsApp community that posts a message whenever a new UK driving test slot becomes available, labelled by postcode, with the slot date and time.
+
+DVSA Slot Notifier is an independent community project. It is not affiliated with or endorsed by the DVSA or GOV.UK.
+
+## How it works
+- Visitors click "Join the WhatsApp group" and are taken to a short questionnaire hosted on watomod.com, a WhatsApp community moderator tool.
+- A moderator reviews the answers and approves entry to the group.
+- Approved members receive alerts in WhatsApp when a slot opens in a postcode, e.g. "New slot available: M8 8EP, Tue 3 Nov, 13:10".
+
+## Pages
+- [Home](https://YOUR-DOMAIN.com/): overview, live-style alert preview, join link, and a table of the latest slot discovered in five sample postcodes (refreshed nightly).
+- [Latest slots data](https://YOUR-DOMAIN.com/data/latest-slots.json): JSON used by the table; updated nightly.
+
+## Notes
+- Slot times are shown by postcode, not place name. Data on the page is currently sample data.
+- Booking is done by the user on the official GOV.UK service; this project does not book tests.
